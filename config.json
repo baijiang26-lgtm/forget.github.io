@@ -5,6 +5,8 @@
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
     "displayTitle":"UMR Home",
     "filingNum":"蜇UMR备1145140721号",
+    "onePageListNum":15,
+    "needComment":1,
     "GMEEK_VERSION":"last"
    
 }
